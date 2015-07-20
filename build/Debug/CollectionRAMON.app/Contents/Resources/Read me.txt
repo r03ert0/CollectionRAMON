@@ -1,0 +1,5 @@
+8 apr 2006
+- In MyDocument:tableViewSelectionDidChange, add and remove connections
+  from the catalogue based on oldObj
+- In MyAppController:removeFromCatalogue, should wait for disconnection
+  of viewers before removing a shm block

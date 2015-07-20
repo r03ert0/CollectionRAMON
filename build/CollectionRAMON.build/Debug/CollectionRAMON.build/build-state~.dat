@@ -1,0 +1,661 @@
+TCollectionRAMON
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Info.plist /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/Info.plist
+cCpResource English.lproj/Credits.rtf build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/Credits.rtf
+cStripNIB /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MainMenu.nib
+cStripNIB /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MyDocument.nib
+cCopyStringsFile /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource Read\ me.txt build/Debug/CollectionRAMON.app/Contents/Resources/Read\ me.txt
+cCpResource ramones-doc.icns build/Debug/CollectionRAMON.app/Contents/Resources/ramones-doc.icns
+cCpResource ramones-app.icns build/Debug/CollectionRAMON.app/Contents/Resources/ramones-app.icns
+cDataModelCompile /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/MyDocument.mom /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.xcdatamodel
+cProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-hhqwikmeyhfejkcvehpsufkdlibk/CollectionRAMON_Prefix.pch.pch CollectionRAMON_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-aglzcnwveuvbujhlebazrqehgvwy/CollectionRAMON_Prefix.pch.pch CollectionRAMON_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/main.o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyAppController.o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyAppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Analyze.o /Users/roberto/Applications/brainbits/RAMONES/Analyze.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/FreeSurfer.o /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MGH.o /Users/roberto/Applications/brainbits/RAMONES/MGH.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/VolumeRAMON.o /Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/SurfaceRAMON.o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/SurfaceRAMON.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Nifti.o /Users/roberto/Applications/brainbits/RAMONES/Nifti.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/MacOS/CollectionRAMON normal x86_64
+cTouch /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005282156E00000000000000AA
+t1384256878
+s170
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052691997000000000000044C
+t1382619543
+s1100
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005269199700000000000001DB
+t1382619543
+s475
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000526777B600000000000066C0
+t1382512566
+s26304
+
+N/Users/roberto/Applications/brainbits/RAMONES/Analyze.c
+c000000004AFBDDD400000000000011F6
+t1258020308
+s4598
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/CollectionRAMON_Prefix.pch
+c0000000044351E2A00000000000000E9
+t1144331818
+s233
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/Credits.rtf
+c00000000453899C7000000000000021E
+t1161337287
+s542
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/InfoPlist.strings
+c00000000453899880000000000000104
+t1161337224
+s260
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MainMenu.nib
+c00000000443800C800000000000000AA
+t1144520904
+s170
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MyDocument.nib
+c0000000044356D7300000000000000AA
+t1144352115
+s170
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/Info.plist
+c00000000448842220000000000000A95
+t1149780514
+s2709
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyAppController.m
+c000000004E17603600000000000014DB
+t1310154806
+s5339
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m
+c0000000052CD72FA0000000000002E7F
+t1389196026
+s11903
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.xcdatamodel
+c00000000443C9EE30000000000000088
+t1144823523
+s136
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/Read me.txt
+c0000000052CD5F2700000000000000E8
+t1389190951
+s232
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/SurfaceRAMON.c
+c000000004BFBFA0D00000000000001AF
+t1274804749
+s431
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Analyze.o
+t1393249918
+s13860
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/CollectionRAMON.LinkFileList
+c00000000530B4E7E0000000000000565
+t1393249918
+s1381
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/FreeSurfer.o
+t1393249918
+s20276
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MGH.o
+t1393249918
+s10536
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyAppController.o
+t1393249918
+s21516
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+t1393249918
+s67324
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Nifti.o
+t1393249918
+s9372
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/SurfaceRAMON.o
+t1393249918
+s3512
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/VolumeRAMON.o
+t1393249918
+s5808
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/main.o
+t1393249918
+s2880
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app
+t1393249918
+s102
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Info.plist
+t1393249918
+s3128
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/MacOS/CollectionRAMON
+t1393249918
+s55856
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/PkgInfo
+t1393249918
+s8
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/Credits.rtf
+t1393249918
+s542
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1393249918
+s260
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/MainMenu.nib
+t1393249918
+s13441
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/MyDocument.nib
+t1393249918
+s15377
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/MyDocument.mom
+t1393249918
+s1616
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/Read me.txt
+t1393249918
+s232
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/ramones-app.icns
+t1393249918
+s59100
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/ramones-doc.icns
+t1393249918
+s58206
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/main.m
+c0000000044351E2A0000000000000108
+t1144331818
+s264
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/ramones-app.icns
+c00000000448841EC000000000000E6DC
+t1149780460
+s59100
+
+N/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/ramones-doc.icns
+c0000000044883E33000000000000E35E
+t1149779507
+s58206
+
+N/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c
+c000000004AFBDBD10000000000002200
+t1258019793
+s8704
+
+N/Users/roberto/Applications/brainbits/RAMONES/MGH.c
+c0000000049A3F93F0000000000000BCD
+t1235482943
+s3021
+
+N/Users/roberto/Applications/brainbits/RAMONES/Nifti.c
+c0000000050586CEA0000000000000820
+t1347972330
+s2080
+
+N/Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.c
+c000000004E17621D0000000000000369
+t1310155293
+s873
+
+N/var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-aglzcnwveuvbujhlebazrqehgvwy/CollectionRAMON_Prefix.pch.pch
+t1389176737
+s110216
+
+N/var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-hhqwikmeyhfejkcvehpsufkdlibk/CollectionRAMON_Prefix.pch.pch
+t1389176737
+s13708852
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/Analyze.c
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyAppController.m
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/SurfaceRAMON.c
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/main.m
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/MGH.c
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/Nifti.c
+r0
+
+CBuild AST from /Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5c8f42fe85bbb841^0ce54cfe85bbb841^---0#1#1#--18"Check dependencies36"46DEC1E3-42DC-41F0-B23B-2C7DCDC211DE-
+
+CCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Analyze.o /Users/roberto/Applications/brainbits/RAMONES/Analyze.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s414942718.759973
+e414942718.812358
+r1
+xCompileC
+xbuild/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Analyze.o
+x/Users/roberto/Applications/brainbits/RAMONES/Analyze.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/Analyze.c
+d/Users/roberto/Applications/brainbits/RAMONES/Analyze.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/roberto/Applications/brainbits/RAMONES/Analyze.c212"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Analyze.o /Users/roberto/Applications/brainbits/RAMONES/Analyze.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler66a0c2fe85bbb841^acadd0fe85bbb841^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/roberto/Applications/brainbits/RAMONES/Analyze.c0000000000000000^2706"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Analyze.o /Users/roberto/Applications/brainbits/RAMONES/Analyze.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/CollectionRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-aglzcnwveuvbujhlebazrqehgvwy/CollectionRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Analyze.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Analyze.dia -c /Users/roberto/Applications/brainbits/RAMONES/Analyze.c -o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Analyze.o36"7B7B3092-D659-4EE2-8084-B3978ED4FC64-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/FreeSurfer.o /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s414942718.760313
+e414942718.813863
+r1
+xCompileC
+xbuild/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/FreeSurfer.o
+x/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c
+d/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.h
+o/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:303:15: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+o        if(endianness=kINTEL)
+o           ~~~~~~~~~~^~~~~~~
+o/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:303:15: note: place parentheses around the assignment to silence this warning
+o        if(endianness=kINTEL)
+o                     ^
+o           (                )
+o/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:303:15: note: use '==' to turn this assignment into an equality comparison
+o        if(endianness=kINTEL)
+o                     ^
+o                     ==
+o/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:316:15: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+o        if(endianness=kINTEL)
+o           ~~~~~~~~~~^~~~~~~
+o/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:316:15: note: place parentheses around the assignment to silence this warning
+o        if(endianness=kINTEL)
+o                     ^
+o           (                )
+o/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:316:15: note: use '==' to turn this assignment into an equality comparison
+o        if(endianness=kINTEL)
+o                     ^
+o                     ==
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c218"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/FreeSurfer.o /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler1bbdc2fe85bbb841^6fb7d0fe85bbb841^-1324"/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:303:15: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]        if(endianness=kINTEL)           ~~~~~~~~~~^~~~~~~/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:303:15: note: place parentheses around the assignment to silence this warning        if(endianness=kINTEL)                     ^           (                )/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:303:15: note: use '==' to turn this assignment into an equality comparison        if(endianness=kINTEL)                     ^                     ==/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:316:15: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]        if(endianness=kINTEL)           ~~~~~~~~~~^~~~~~~/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:316:15: note: place parentheses around the assignment to silence this warning        if(endianness=kINTEL)                     ^           (                )/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c:316:15: note: use '==' to turn this assignment into an equality comparison        if(endianness=kINTEL)                     ^                     ==2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@68"Using the result of an assignment as a condition without parentheses-414942718#18446744073709551615#0#2(2@63"Place parentheses around the assignment to silence this warning-414942718#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#14#302#14#7309#0#14"Semantic Issue2(3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#4#302#4#7299#0#3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#21#302#21#7316#0#-2@60"Use '==' to turn this assignment into an equality comparison-414942718#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#14#302#14#7309#0#14"Semantic Issue1(3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#14#302#15#7309#1#-1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#14#302#14#7309#0#14"Semantic Issue1(3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^302#4#302#21#7299#11#-2@68"Using the result of an assignment as a condition without parentheses-414942718#18446744073709551615#0#2(2@63"Place parentheses around the assignment to silence this warning-414942718#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#14#315#14#7507#0#14"Semantic Issue2(3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#4#315#4#7497#0#3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#21#315#21#7514#0#-2@60"Use '==' to turn this assignment into an equality comparison-414942718#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#14#315#14#7507#0#14"Semantic Issue1(3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#14#315#15#7507#1#-1#27"com.apple.dt.IDE.diagnostic3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#14#315#14#7507#0#14"Semantic Issue1(3@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^315#4#315#21#7497#11#-0#0#1#-19%DVTDocumentLocation4@65"file:///Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c0000000000000000^2724"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/FreeSurfer.o /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/CollectionRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-aglzcnwveuvbujhlebazrqehgvwy/CollectionRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/FreeSurfer.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/FreeSurfer.dia -c /Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.c -o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/FreeSurfer.o36"10ACA3D6-F9BE-4E6C-9831-BD66573ADDDE-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MGH.o /Users/roberto/Applications/brainbits/RAMONES/MGH.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s414942718.760848
+e414942718.807906
+r1
+xCompileC
+xbuild/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MGH.o
+x/Users/roberto/Applications/brainbits/RAMONES/MGH.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/MGH.c
+d/Users/roberto/Applications/brainbits/RAMONES/MGH.h
+d/Users/roberto/Applications/brainbits/RAMONES/Analyze.h
+o/Users/roberto/Applications/brainbits/RAMONES/MGH.c:50:9: warning: implicit declaration of function 'time' is invalid in C99 [-Wimplicit-function-declaration]
+o        srand (time(NULL));
+o               ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/roberto/Applications/brainbits/RAMONES/MGH.c204"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MGH.o /Users/roberto/Applications/brainbits/RAMONES/MGH.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler62dbc2fe85bbb841^93abd0fe85bbb841^-225"/Users/roberto/Applications/brainbits/RAMONES/MGH.c:50:9: warning: implicit declaration of function 'time' is invalid in C99 [-Wimplicit-function-declaration]        srand (time(NULL));               ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@57"Implicit declaration of function 'time' is invalid in C99-414942718#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@58"file:///Users/roberto/Applications/brainbits/RAMONES/MGH.c0000000000000000^49#8#49#8#1201#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@58"file:///Users/roberto/Applications/brainbits/RAMONES/MGH.c0000000000000000^2682"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MGH.o /Users/roberto/Applications/brainbits/RAMONES/MGH.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/CollectionRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-aglzcnwveuvbujhlebazrqehgvwy/CollectionRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MGH.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MGH.dia -c /Users/roberto/Applications/brainbits/RAMONES/MGH.c -o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MGH.o36"D68FF92A-6413-4DED-B39B-5A9B31790709-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyAppController.o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyAppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414942718.759680
+e414942718.890005
+r1
+xCompileC
+xbuild/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyAppController.o
+x/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyAppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyAppController.m
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyAppController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyAppController.m192"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyAppController.o MyAppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0394c2fe85bbb841^31ede3fe85bbb841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyAppController.m0000000000000000^2937"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyAppController.o MyAppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/CollectionRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-hhqwikmeyhfejkcvehpsufkdlibk/CollectionRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyAppController.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyAppController.dia -c /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyAppController.m -o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyAppController.o36"9CE9A8AB-C68B-4737-9D0E-D113F6255D21-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414942718.759171
+e414942718.926224
+r1
+xCompileC
+xbuild/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+x/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.h
+d/Users/roberto/Applications/brainbits/RAMONES/Analyze.h
+d/Users/roberto/Applications/brainbits/RAMONES/FreeSurfer.h
+d/Users/roberto/Applications/brainbits/RAMONES/MGH.h
+d/Users/roberto/Applications/brainbits/RAMONES/Nifti.h
+d/Users/roberto/Applications/brainbits/RAMONES/nifti1.h
+o/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m:40:21: warning: 'launchedApplications' is deprecated: first deprecated in OS X 10.7 [-Wdeprecated-declarations]
+o        NSArray         *apps=[ws launchedApplications];
+o                                  ^
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m:1:
+oIn file included from /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/CollectionRAMON_Prefix.pch:8:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:13:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:15:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSActionCell.h:8:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSCell.h:10:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSText.h:8:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSView.h:8:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSApplication.h:11:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSRunningApplication.h:24:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSWorkspace.h:369:1: note: method 'launchedApplications' declared here
+o- (NSArray *)launchedApplications NS_DEPRECATED_MAC(10_0, 10_7);
+o^
+o/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m:293:17: warning: unused variable 'cmd' [-Wunused-variable]
+o        char    ext[2048],cmd[2048];
+o                          ^
+o/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m:339:2: warning: implicit declaration of function 'removeData' is invalid in C99 [-Wimplicit-function-declaration]
+o        removeData(key);
+o        ^
+o/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m:353:6: warning: implicit declaration of function 'addData' is invalid in C99 [-Wimplicit-function-declaration]
+o        key=addData(addr,sz,name,"FreeSurfer"); if(key<0) printf("[addFreeSurfer] addData() failed\n");
+o            ^
+o/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m:456:2: warning: implicit declaration of function 'SurfaceRAMON_load' is invalid in C99 [-Wimplicit-function-declaration]
+o        SurfaceRAMON_load(path,&addr,&sz);
+o        ^
+o5 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m199"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o MyDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9c69c2fe85bbb841^ef1dedfe85bbb841^-3399"/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m:40:21: warning: 'launchedApplications' is deprecated: first deprecated in OS X 10.7 [-Wdeprecated-declarations]        NSArray         *apps=[ws launchedApplications];                                  ^In file included from /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m:1:In file included from /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/CollectionRAMON_Prefix.pch:8:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:13:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h:15:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSActionCell.h:8:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSCell.h:10:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSText.h:8:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSView.h:8:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSApplication.h:11:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSRunningApplication.h:24:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSWorkspace.h:369:1: note: method 'launchedApplications' declared here- (NSArray *)launchedApplications NS_DEPRECATED_MAC(10_0, 10_7);^/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m:293:17: warning: unused variable 'cmd' [-Wunused-variable]        char    ext[2048],cmd[2048];                          ^/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m:339:2: warning: implicit declaration of function 'removeData' is invalid in C99 [-Wimplicit-function-declaration]        removeData(key);        ^/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m:353:6: warning: implicit declaration of function 'addData' is invalid in C99 [-Wimplicit-function-declaration]        key=addData(addr,sz,name,"FreeSurfer"); if(key<0) printf("[addFreeSurfer] addData() failed\n");            ^/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m:456:2: warning: implicit declaration of function 'SurfaceRAMON_load' is invalid in C99 [-Wimplicit-function-declaration]        SurfaceRAMON_load(path,&addr,&sz);        ^5 warnings generated.5(36%IDEClangDiagnosticActivityLogMessage2@67"'launchedApplications' is deprecated: first deprecated in OS X 10.7-414942718#18446744073709551615#0#1(2@43"Method 'launchedApplications' declared here-414942718#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@183"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSWorkspace.h0000000000000000^368#0#368#0#26363#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@81"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m0000000000000000^39#20#39#20#979#0#12"Deprecations--2@21"Unused variable 'cmd'-414942718#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@81"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m0000000000000000^292#16#292#16#8356#0#19"Unused Entity Issue--2@63"Implicit declaration of function 'removeData' is invalid in C99-414942718#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@81"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m0000000000000000^338#1#338#1#9237#0#14"Semantic Issue--2@60"Implicit declaration of function 'addData' is invalid in C99-414942718#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@81"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m0000000000000000^352#5#352#5#9493#0#14"Semantic Issue--2@70"Implicit declaration of function 'SurfaceRAMON_load' is invalid in C99-414942718#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@81"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m0000000000000000^455#1#455#1#11633#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@81"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m0000000000000000^2975"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o MyDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/CollectionRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-hhqwikmeyhfejkcvehpsufkdlibk/CollectionRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.dia -c /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m -o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o36"8E85E726-FBB9-4D27-8CB9-63826266A501-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Nifti.o /Users/roberto/Applications/brainbits/RAMONES/Nifti.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s414942718.798412
+e414942718.827835
+r1
+xCompileC
+xbuild/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Nifti.o
+x/Users/roberto/Applications/brainbits/RAMONES/Nifti.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/Nifti.c
+d/Users/roberto/Applications/brainbits/RAMONES/Nifti.h
+d/Users/roberto/Applications/brainbits/RAMONES/nifti1.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/roberto/Applications/brainbits/RAMONES/Nifti.c208"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Nifti.o /Users/roberto/Applications/brainbits/RAMONES/Nifti.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler6c7accfe85bbb841^c74bd7fe85bbb841^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/roberto/Applications/brainbits/RAMONES/Nifti.c0000000000000000^2694"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Nifti.o /Users/roberto/Applications/brainbits/RAMONES/Nifti.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/CollectionRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-aglzcnwveuvbujhlebazrqehgvwy/CollectionRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Nifti.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Nifti.dia -c /Users/roberto/Applications/brainbits/RAMONES/Nifti.c -o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Nifti.o36"3ABBF16F-EBF2-4176-B79C-C05256B7F32F-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/SurfaceRAMON.o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/SurfaceRAMON.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s414942718.762902
+e414942718.798117
+r1
+xCompileC
+xbuild/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/SurfaceRAMON.o
+x/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/SurfaceRAMON.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/SurfaceRAMON.c
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/SurfaceRAMON.h
+d/Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.h
+d/Users/roberto/Applications/brainbits/RAMONES/Analyze.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/SurfaceRAMON.c176"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/SurfaceRAMON.o SurfaceRAMON.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler9e60c3fe85bbb841^a053ccfe85bbb841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/SurfaceRAMON.c0000000000000000^2706"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/SurfaceRAMON.o SurfaceRAMON.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/CollectionRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-aglzcnwveuvbujhlebazrqehgvwy/CollectionRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/SurfaceRAMON.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/SurfaceRAMON.dia -c /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/SurfaceRAMON.c -o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/SurfaceRAMON.o36"82F59EE6-D9BE-49C1-B10D-031BAE2A3AA9-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/VolumeRAMON.o /Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s414942718.761126
+e414942718.798776
+r1
+xCompileC
+xbuild/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/VolumeRAMON.o
+x/Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.c
+d/Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.h
+d/Users/roberto/Applications/brainbits/RAMONES/Analyze.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.c220"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/VolumeRAMON.o /Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler2debc2fe85bbb841^e679d0fe85bbb841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.c0000000000000000^2730"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/VolumeRAMON.o /Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/CollectionRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-aglzcnwveuvbujhlebazrqehgvwy/CollectionRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/VolumeRAMON.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/VolumeRAMON.dia -c /Users/roberto/Applications/brainbits/RAMONES/VolumeRAMON.c -o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/VolumeRAMON.o36"8AAE5FE0-80B5-4706-AC3F-6CEC3C767F3B-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/main.o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414942718.759477
+e414942718.819023
+r1
+xCompileC
+xbuild/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/main.o
+x/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/main.m170"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9083c2fe85bbb841^4949d7fe85bbb841^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/main.m0000000000000000^2871"CompileC build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/CollectionRAMON.hmap -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources/x86_64 -I/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/DerivedSources -F/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-hhqwikmeyhfejkcvehpsufkdlibk/CollectionRAMON_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/main.dia -c /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/main.m -o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/main.o36"982B11FB-FC71-414C-905E-788771BEC439-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCopyStringsFile /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s414942718.303172
+e414942718.304425
+r1
+xCopyStringsFile
+x/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings130"CopyStringsFile build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.stringsb5a64dfe85bbb841^dcf64dfe85bbb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/InfoPlist.strings0000000000000000^453"CopyStringsFile build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"78572854-E540-4AFD-AB50-843A649D4154-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCpResource English.lproj/Credits.rtf build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/Credits.rtf
+s414942718.302782
+e414942718.304012
+r1
+xCpResource
+xEnglish.lproj/Credits.rtf
+xbuild/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/Credits.rtf113"CpResource English.lproj/Credits.rtf build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/Credits.rtf378d4dfe85bbb841^dcd74dfe85bbb841^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/Credits.rtf0034d096dcffdf42^510"CpResource English.lproj/Credits.rtf build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/Credits.rtf    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/Credits.rtf /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj36"3D505425-9B6A-4E0D-A05D-A42D57309C3A-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCpResource Read\ me.txt build/Debug/CollectionRAMON.app/Contents/Resources/Read\ me.txt
+s414942718.303345
+e414942718.304377
+r1
+xCpResource
+xRead me.txt
+xbuild/Debug/CollectionRAMON.app/Contents/Resources/Read me.txt
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/CollectionRAMON.app/Contents/Resources/Read me.txt87"CpResource Read\ me.txt build/Debug/CollectionRAMON.app/Contents/Resources/Read\ me.txt53b14dfe85bbb841^3eec4dfe85bbb841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/Read%20me.txt0034d096dcffdf42^457"CpResource Read\ me.txt build/Debug/CollectionRAMON.app/Contents/Resources/Read\ me.txt    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/Read\ me.txt /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources36"0EA1AE84-90FC-486D-99AF-8B29D194B7EB-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCpResource ramones-app.icns build/Debug/CollectionRAMON.app/Contents/Resources/ramones-app.icns
+s414942718.303649
+e414942718.304648
+r1
+xCpResource
+xramones-app.icns
+xbuild/Debug/CollectionRAMON.app/Contents/Resources/ramones-app.icns
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/CollectionRAMON.app/Contents/Resources/ramones-app.icns95"CpResource ramones-app.icns build/Debug/CollectionRAMON.app/Contents/Resources/ramones-app.icns6dca4dfe85bbb841^97fe4dfe85bbb841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/ramones-app.icns0034d096dcffdf42^469"CpResource ramones-app.icns build/Debug/CollectionRAMON.app/Contents/Resources/ramones-app.icns    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/ramones-app.icns /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources36"F47E7087-39B2-49E8-9847-B1555A73D7C9-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CCpResource ramones-doc.icns build/Debug/CollectionRAMON.app/Contents/Resources/ramones-doc.icns
+s414942718.303480
+e414942718.304521
+r1
+xCpResource
+xramones-doc.icns
+xbuild/Debug/CollectionRAMON.app/Contents/Resources/ramones-doc.icns
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/CollectionRAMON.app/Contents/Resources/ramones-doc.icns95"CpResource ramones-doc.icns build/Debug/CollectionRAMON.app/Contents/Resources/ramones-doc.icns72c14dfe85bbb841^1efb4dfe85bbb841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/ramones-doc.icns0034d096dcffdf42^469"CpResource ramones-doc.icns build/Debug/CollectionRAMON.app/Contents/Resources/ramones-doc.icns    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/ramones-doc.icns /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources36"054B65DC-7625-46B9-91F2-5B26660BE044-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CDataModelCompile /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/MyDocument.mom /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.xcdatamodel
+s414942718.694646
+e414942718.758592
+r1
+xDataModelCompile
+x/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/MyDocument.mom
+x/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.xcdatamodel
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.xcdatamodel105"DataModelCompile build/Debug/CollectionRAMON.app/Contents/Resources/MyDocument.mom MyDocument.xcdatamodel16deb1fe85bbb841^f8c5c5fe85bbb841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.xcdatamodel/0000000000000000^642"DataModelCompile build/Debug/CollectionRAMON.app/Contents/Resources/MyDocument.mom MyDocument.xcdatamodel    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    /Applications/_Programming/Xcode.app/Contents/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -MOMC_PLATFORMS macosx -XD_MOMC_TARGET_VERSION=10.9 /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.xcdatamodel /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/MyDocument.mom36"E08A911D-6B32-4051-BA5A-B2F6D820565F-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CLd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/MacOS/CollectionRAMON normal x86_64
+s414942718.926902
+e414942718.958352
+r1
+xLd
+x/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/MacOS/CollectionRAMON
+xnormal
+xx86_64
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/CollectionRAMON.LinkFileList
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyDocument-528B0CF58FE91DC2.o
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/main.o
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MyAppController.o
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Analyze.o
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/FreeSurfer.o
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/MGH.o
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/VolumeRAMON.o
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/SurfaceRAMON.o
+d/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/Nifti.o
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Link /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/MacOS/CollectionRAMON79"Ld build/Debug/CollectionRAMON.app/Contents/MacOS/CollectionRAMON normal x86_647654edfe85bbb841^d7bdf5fe85bbb841^---0#0#1#--1168"Ld build/Debug/CollectionRAMON.app/Contents/MacOS/CollectionRAMON normal x86_64    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug -F/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug -filelist /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/CollectionRAMON.LinkFileList -mmacosx-version-min=10.9 -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/CollectionRAMON.build/Debug/CollectionRAMON.build/Objects-normal/x86_64/CollectionRAMON_dependency_info.dat -o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/MacOS/CollectionRAMON36"6C4F0D13-38EB-4548-96CA-13309879DB00-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CProcessInfoPlistFile /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Info.plist /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/Info.plist
+s414942718.301240
+e414942718.302453
+r1
+xProcessInfoPlistFile
+x/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Info.plist
+x/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Process /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/Info.plist83"ProcessInfoPlistFile build/Debug/CollectionRAMON.app/Contents/Info.plist Info.plistfa264dfe85bbb841^4c714dfe85bbb841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/Info.plist0000000000000000^533"ProcessInfoPlistFile build/Debug/CollectionRAMON.app/Contents/Info.plist Info.plist    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    builtin-infoPlistUtility /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/Info.plist -genpkginfo /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Info.plist36"76E3822D-9908-4F70-B8CC-75180D69F751-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CProcessPCH /Users/roberto/Library/Developer/Xcode/DerivedData/CollectionRAMON-dgtshprorjmiyibltbpkjgjwviph/Index/PrecompiledHeaders/CollectionRAMON_Prefix-daodlmkrzbcyeugsakenxrbiwtnd_ast/CollectionRAMON_Prefix.pch.pch CollectionRAMON_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/roberto/Library/Developer/Xcode/DerivedData/CollectionRAMON-dgtshprorjmiyibltbpkjgjwviph/Index/PrecompiledHeaders/CollectionRAMON_Prefix-drhabbddylnsgmhejgmwcmmqvypw_ast/CollectionRAMON_Prefix.pch.pch CollectionRAMON_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-aglzcnwveuvbujhlebazrqehgvwy/CollectionRAMON_Prefix.pch.pch CollectionRAMON_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/CollectionRAMON_Prefix-hhqwikmeyhfejkcvehpsufkdlibk/CollectionRAMON_Prefix.pch.pch CollectionRAMON_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CStripNIB /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MainMenu.nib
+s414942718.302911
+e414942718.311333
+r1
+xStripNIB
+x/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MainMenu.nib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Processing /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MainMenu.nib35"StripNIB English.lproj/MainMenu.nib35994dfe85bbb841^9eb54ffe85bbb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MainMenu.nib/0000000000000000^556"StripNIB English.lproj/MainMenu.nib    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    setenv XCODE_DEVELOPER_USR_PATH /Applications/_Programming/Xcode.app/Contents/Developer/usr/bin/..    /Applications/_Programming/Xcode.app/Contents/Developer/usr/bin/ibtool --strip /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MainMenu.nib36"CA7B8A7C-002B-49A3-9C32-A6AC3BE1B53A-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CStripNIB /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MyDocument.nib
+s414942718.303047
+e414942718.694242
+r1
+xStripNIB
+x/Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MyDocument.nib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Processing /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MyDocument.nib37"StripNIB English.lproj/MyDocument.nibb29f4dfe85bbb841^b6b9b1fe85bbb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MyDocument.nib/0000000000000000^562"StripNIB English.lproj/MyDocument.nib    cd /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON    setenv XCODE_DEVELOPER_USR_PATH /Applications/_Programming/Xcode.app/Contents/Developer/usr/bin/..    /Applications/_Programming/Xcode.app/Contents/Developer/usr/bin/ibtool --strip /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app/Contents/Resources/English.lproj/MyDocument.nib --output-format human-readable-text /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/English.lproj/MyDocument.nib36"1E771119-DE3F-452E-BFE7-884557188176-
+b05BD518A-70F0-4A26-9A51-ECC6F95C4510
+
+CTouch /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/build/Debug/CollectionRAMON.app
+r0
+
