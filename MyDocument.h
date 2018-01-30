@@ -35,6 +35,8 @@ int addMGH(char *path, char *name, int volumeType);
 void removeMGH(int key);
 int addVolumeRAMON(char *path, char *name);
 void removeVolumeRAMON(int key);
+int addVolumeRAMONZip(char *path, char *name);
+void removeVolumeRAMONZip(int key);
 int addSurfaceRAMON(char *path, char *name);
 void removeSurfaceRAMON(int key);
 

@@ -1,4 +1,5 @@
 dependencies: \
+  /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/CollectionRAMON_Prefix.pch \
   /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.m \
   /Users/roberto/Applications/brainbits/RAMONES/CollectionRAMON/MyDocument.h \
   /Users/roberto/Applications/brainbits/RAMONES/Analyze.h \

@@ -82,10 +82,10 @@ void launchPreferedViewer(char *str)
 		if([x isEqualTo:@"gz"])
 			[s setValue:@"GZCompressed"		forKey:@"type"];
 		else
-			if([x isEqualTo:@"nii"])
+        if([x isEqualTo:@"nii"])
 			[s setValue:@"Nifti"			forKey:@"type"];
 		else
-			if([x isEqualTo:@"hdr"])
+        if([x isEqualTo:@"hdr"])
 			[s setValue:@"Analyze"			forKey:@"type"];
 		else
 		if([x isEqualTo:@"mgz"])
@@ -104,8 +104,10 @@ void launchPreferedViewer(char *str)
 		if([x isEqualTo:@"mgh"])
 			[s setValue:@"MGH"				forKey:@"type"];
 		else
-		if([x isEqualTo:@"vramon"])
-			[s setValue:@"VolumeRAMON"		forKey:@"type"];
+        if([x isEqualTo:@"vramon"])
+            [s setValue:@"VolumeRAMON"		forKey:@"type"];
+        if([x isEqualTo:@"vramonz"])
+            [s setValue:@"VolumeRAMONZip"		forKey:@"type"];
 		else
 			[s setValue:@"Unknown"			forKey:@"type"];
 	}
@@ -135,7 +137,8 @@ void launchPreferedViewer(char *str)
 		if([[oldObj valueForKey:@"type"] isEqualTo:@"Analyze"])			removeAnalyze(oldKey);
 		if([[oldObj valueForKey:@"type"] isEqualTo:@"Nifti"])			removeNifti(oldKey);
 		if([[oldObj valueForKey:@"type"] isEqualTo:@"MGH"])				removeMGH(oldKey);
-		if([[oldObj valueForKey:@"type"] isEqualTo:@"VolumeRAMON"])		removeVolumeRAMON(oldKey);
+        if([[oldObj valueForKey:@"type"] isEqualTo:@"VolumeRAMON"])		removeVolumeRAMON(oldKey);
+        if([[oldObj valueForKey:@"type"] isEqualTo:@"VolumeRAMONZip"])	removeVolumeRAMONZip(oldKey);
 		if([[oldObj valueForKey:@"type"] isEqualTo:@"SurfaceRAMON"])	removeSurfaceRAMON(oldKey);
 	}
 	
@@ -145,7 +148,8 @@ void launchPreferedViewer(char *str)
 	if([[obj valueForKey:@"type"]	isEqualTo:@"Analyze"])		newKey=addAnalyze(path,name);
 	if([[obj valueForKey:@"type"]	isEqualTo:@"Nifti"])		newKey=addNifti(path,name);
 	if([[obj valueForKey:@"type"]	isEqualTo:@"MGH"])			newKey=addMGH(path,name,MGH_volumeType);
-	if([[obj valueForKey:@"type"]	isEqualTo:@"VolumeRAMON"])	newKey=addVolumeRAMON(path,name);
+    if([[obj valueForKey:@"type"]	isEqualTo:@"VolumeRAMON"])	newKey=addVolumeRAMON(path,name);
+    if([[obj valueForKey:@"type"]	isEqualTo:@"VolumeRAMONZip"])newKey=addVolumeRAMONZip(path,name);
 	if([[obj valueForKey:@"type"]	isEqualTo:@"SurfaceRAMON"])	newKey=addSurfaceRAMON(path,name);
 	
 	// if unable to load data, ask, otherwise, load.
@@ -447,6 +451,19 @@ int addVolumeRAMON(char *path, char *name)
 void removeVolumeRAMON(int key)
 {
 	removeData(key);
+}
+int addVolumeRAMONZip(char *path, char *name)
+{
+    int		key;
+    key=addData(path,strlen(path),name,"Volume"); if(key<0) printf("[addVolumeRAMONZip] addData() failed\n");
+    
+    launchPreferedViewer("StereotaxicEditorRAMON");
+    
+    return key;
+}
+void removeVolumeRAMONZip(int key)
+{
+    removeData(key);
 }
 int addSurfaceRAMON(char *path, char *name)
 {
